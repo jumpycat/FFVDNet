@@ -1,5 +1,3 @@
-"新算法，将7*7*1280的特征图重拍，之后利用3D CNN"
-
 import cv2
 import numpy as np
 from keras.callbacks import EarlyStopping, ModelCheckpoint
